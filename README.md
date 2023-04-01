@@ -5,3 +5,5 @@ If you own something on this website that you want removed, make an issue forum 
 
 right now this website is super not portable, hopefully one day ill learn to code properly and make it easier to port.
 
+NOT FOR LONG MWHAHAHA
+
